@@ -34,6 +34,12 @@ There are simply a jupyter notebook and codes are explained there.
 * [Kaggle-notebook](https://www.kaggle.com/docs/notebooks) - Kaggle notebook used run notebook
 * [Pycharm](https://www.jetbrains.com/pycharm/) - Pycharm is used for working on local machine
 
+## Achievements and Outcomes
+
+* Data extended to 5 times with autmentation functions after splitting data as %70 training, %20 validating and %10 testing.
+* Model reached to 0.850 accuracy with 0.640 loss in 46 epochs which has 32 batch size.
+* Testing made with unseen data by the model, so 0.85 accuracy satisfies the expectations.
+
 ## Researches
 			
 | Git Repositories  | Comments |
@@ -51,9 +57,12 @@ There are simply a jupyter notebook and codes are explained there.
 ## Acknowledgments
 
 * https://github.com/shibuiwilliam/audio_classification_keras codes are taken from this repo and some modifications made on it.
-* Inspirations  <br>
+### Inspirations: <br>
 * https://github.com/adanRivas/CNN-Audio-Classifier-with-Keras-Tensorflow
 * https://github.com/drscotthawley/panotti
 
 
+## TODO
+
+- [ ] Make the prediction flexible in time.
 
