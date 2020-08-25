@@ -64,5 +64,5 @@ There are simply a jupyter notebook and codes are explained there.
 
 ## TODO
 
-- [ ] Make the prediction flexible in time.
+- [x] Make the prediction flexible in time.
 
