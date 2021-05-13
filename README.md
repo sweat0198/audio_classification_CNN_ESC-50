@@ -1,4 +1,4 @@
-# Audio Classication with CNN for ESC-50 dataset
+# Audio Classification with CNN for ESC-50 dataset
 
 Audio classification model which uses CNN to train ESC-50 dataset.  
 
